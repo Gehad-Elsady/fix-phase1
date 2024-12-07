@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580303853989",
+    "project_id": "database-d414b",
+    "storage_bucket": "database-d414b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580303853989:android:02c24ddb8363b824e6b04c",
+        "android_client_info": {
+          "package_name": "com.example.fix_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQK4FT07B7Bhbt9xz7FrIFDsnyggBIgEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
